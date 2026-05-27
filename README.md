@@ -122,7 +122,11 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhineshprvt&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120"/>
 
 </div>
 
@@ -138,13 +142,14 @@ Currently Learning:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Certificates
 
 <div align="center">
 
-<a href="https://github.com/dhineshprvt/Certificates">
-<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=dhineshprvt&repo=Certificates&theme=tokyonight&hide_border=true"/>
-</a>
+| Project | Description |
+|---------|-------------|
+| 🚀 [Certificates](https://github.com/dhineshprvt/Certificates) | My Certifications & Achievements |
+| 💻 [GitHub Profile](https://github.com/dhineshprvt) | Explore My Projects & Contributions |
 
 </div>
 
