@@ -13,7 +13,7 @@ check the error
 
 Explore my verified certificates :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhineshprvt&repo=Certificates&theme=merko)](https://github.com/dhineshprvt/Certificates)
+[![Readme Card](https://readme-stats.vercel.app/api/pin/?username=dhineshprvt&repo=Certificates&theme=merko)](https://github.com/dhineshprvt/Certificates)
 
 ---
 
