@@ -1,178 +1,31 @@
-export default function GitHubProfilePreview() {
-  return (
-    <div className="min-h-screen bg-[#0D1117] text-white font-sans">
-      {/* Hero Section */}
-      <div className="relative overflow-hidden bg-gradient-to-r from-[#0f2027] via-[#203a43] to-[#2c5364] py-20 text-center">
-        <h1 className="text-6xl font-extrabold tracking-wide">Dhineshkumar</h1>
-        <p className="mt-4 text-xl text-emerald-300 font-semibold">
-          Full Stack Developer | Java Backend Engineer | Tech Explorer
-        </p>
-
-        <div className="mt-8 flex flex-wrap justify-center gap-4">
-          <span className="rounded-full bg-black/30 px-5 py-2 text-sm border border-emerald-400">
-            🚀 Full Stack Developer
-          </span>
-          <span className="rounded-full bg-black/30 px-5 py-2 text-sm border border-emerald-400">
-            ☕ Java & Spring Boot Developer
-          </span>
-          <span className="rounded-full bg-black/30 px-5 py-2 text-sm border border-emerald-400">
-            ⚡ Building Scalable Systems
-          </span>
-        </div>
-      </div>
-
-      {/* About Me */}
-      <section className="max-w-6xl mx-auto px-6 py-16 grid md:grid-cols-2 gap-10 items-center">
-        <div>
-          <h2 className="text-4xl font-bold text-emerald-400 mb-6">💫 About Me</h2>
-
-          <div className="bg-[#161B22] rounded-3xl p-6 shadow-xl border border-gray-800">
-            <pre className="text-sm leading-7 whitespace-pre-wrap text-gray-300">
-{`Name: Dhineshkumar
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Dhineshkumar&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Engineer%20|%20Tech%20Explorer&descAlignY=58&animation=fadeIn&fontColor=ffffff"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer;⚡+Building+Scalable+Backend+Systems;💡+Passionate+Problem+Solver;🌍+Exploring+Cloud+%26+DevOps;🔥+Always+Learning+New+Technologies" /> <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhineshprvt&label=Profile+Views&color=00f5a0&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/dhineshprvt?style=for-the-badge&color=00f5a0"/> <img src="https://img.shields.io/github/stars/dhineshprvt?affiliations=OWNER&style=for-the-badge&color=00f5a0"/> </p> </div> --- # 💫 About Me <img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+yaml
+Name: Dhineshkumar
 Education: Electronics & Communication Engineering
 College: Karpagam Institute of Technology (KIT)
 
 Interests:
-- Backend Development
-- Cloud Computing
-- DevOps
-- System Design
-- Open Source
+  - Backend Development
+  - Cloud Computing
+  - DevOps
+  - System Design
+  - Open Source
 
 Currently Learning:
-- Spring Boot
-- Microservices
-- PostgreSQL
-- AWS
-- Docker & Kubernetes
+  - Spring Boot
+  - Microservices
+  - PostgreSQL
+  - AWS
+  - Docker & Kubernetes
 
 2026 Goals:
-- Build scalable real-world projects
-- Master backend architecture
-- Contribute to open source
-- Become industry-ready`}
-            </pre>
-          </div>
-        </div>
-
-        <div className="flex justify-center">
-          <img
-            className="rounded-3xl shadow-2xl w-full max-w-md"
-            src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-            alt="Developer GIF"
-          />
-        </div>
-      </section>
-
-      {/* Connect */}
-      <section className="bg-[#161B22] py-16">
-        <div className="max-w-5xl mx-auto text-center px-6">
-          <h2 className="text-4xl font-bold text-emerald-400 mb-10">
-            🌐 Connect With Me
-          </h2>
-
-          <div className="flex flex-wrap justify-center gap-5">
-            {[
-              {
-                name: 'Gmail',
-                link: 'mailto:dhinesh1434k@gmail.com',
-              },
-              {
-                name: 'LinkedIn',
-                link: 'https://www.linkedin.com/in/dhineshkumar-v/',
-              },
-              {
-                name: 'Instagram',
-                link: 'https://instagram.com/dhinesh._.prvt',
-              },
-              {
-                name: 'GitHub',
-                link: 'https://github.com/dhineshprvt',
-              },
-            ].map((item) => (
-              <a
-                key={item.name}
-                href={item.link}
-                target="_blank"
-                className="px-6 py-3 rounded-2xl bg-black border border-emerald-400 hover:scale-105 transition-all duration-300 shadow-lg"
-              >
-                {item.name}
-              </a>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Tech Stack */}
-      <section className="max-w-6xl mx-auto px-6 py-16">
-        <h2 className="text-4xl font-bold text-center text-emerald-400 mb-12">
-          ⚒️ Tech Stack
-        </h2>
-
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {[
-            {
-              title: '🚀 Languages',
-              items: 'Java, JavaScript, Go, HTML, CSS',
-            },
-            {
-              title: '⚡ Backend & Database',
-              items: 'Spring Boot, Node.js, PostgreSQL, MySQL',
-            },
-            {
-              title: '☁️ Cloud & DevOps',
-              items: 'AWS, Docker, Kubernetes, Git, GitHub',
-            },
-            {
-              title: '🛠️ Tools & IDEs',
-              items: 'VS Code, IntelliJ, Maven, Postman, Linux',
-            },
-          ].map((card) => (
-            <div
-              key={card.title}
-              className="bg-[#161B22] border border-gray-800 rounded-3xl p-6 shadow-xl hover:border-emerald-400 transition-all duration-300"
-            >
-              <h3 className="text-xl font-semibold mb-4 text-emerald-300">
-                {card.title}
-              </h3>
-              <p className="text-gray-300 leading-7">{card.items}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      {/* Stats */}
-      <section className="bg-[#161B22] py-16 px-6">
-        <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-emerald-400 mb-12">
-            📊 GitHub Analytics
-          </h2>
-
-          <div className="grid md:grid-cols-2 gap-8">
-            <img
-              className="rounded-3xl shadow-2xl"
-              src="https://github-readme-stats.vercel.app/api?username=dhineshprvt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"
-              alt="GitHub Stats"
-            />
-
-            <img
-              className="rounded-3xl shadow-2xl"
-              src="https://streak-stats.demolab.com?user=dhineshprvt&theme=tokyonight&hide_border=true&border_radius=15"
-              alt="GitHub Streak"
-            />
-          </div>
-        </div>
-      </section>
-
-      {/* Developer Philosophy */}
-      <section className="max-w-5xl mx-auto px-6 py-16">
-        <h2 className="text-4xl font-bold text-center text-emerald-400 mb-10">
-          💻 Developer Philosophy
-        </h2>
-
-        <div className="bg-black rounded-3xl p-8 border border-gray-800 overflow-x-auto shadow-2xl">
-          <pre className="text-emerald-300 text-sm leading-7">
-{`class Developer {
+  - Build scalable real-world projects
+  - Master backend architecture
+  - Contribute to open source
+  - Become industry-ready
+--- # 🌐 Connect With Me <div align="center"> <a href="mailto:dhinesh1434k@gmail.com"> <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> <a href="https://www.linkedin.com/in/dhineshkumar-v/"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://instagram.com/dhinesh._.prvt"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> <a href="https://github.com/dhineshprvt"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> --- # ⚒️ Tech Stack <div align="center"> ### 🚀 Languages <img src="https://skillicons.dev/icons?i=java,js,go,html,css"/> ### ⚡ Backend & Database <img src="https://skillicons.dev/icons?i=spring,nodejs,postgresql,mysql"/> ### ☁️ Cloud & DevOps <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/> ### 🛠️ Tools & IDEs <img src="https://skillicons.dev/icons?i=vscode,intellij,maven,postman,linux"/> </div> --- # 📊 GitHub Analytics <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhineshprvt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/> <img width="49%" src="https://streak-stats.demolab.com?user=dhineshprvt&theme=tokyonight&hide_border=true&border_radius=15"/> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhineshprvt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/> <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhineshprvt&theme=tokyonight"/> </div> --- # 🏆 GitHub Achievements <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhineshprvt&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/> </div> --- # 📈 Contribution Graph <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhineshprvt&theme=react-dark&hide_border=true&area=true"/> </div> --- # 🚀 Featured Projects <div align="center"> <a href="https://github.com/dhineshprvt/Certificates"> <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=dhineshprvt&repo=Certificates&theme=tokyonight&hide_border=true"/> </a> </div> --- # 🧠 Competitive Programming <div align="center"> <img src="https://leetcard.jacoblin.cool/dhineshprvt?theme=dark&font=Nunito&ext=contest"/> </div> --- # ⚡ Current Focus <div align="center"> | 🚀 Learning | 🔥 Building | 🎯 Goals | |------------|-------------|----------| | Spring Boot | Backend APIs | Crack Product-Based Companies | | Microservices | Full Stack Apps | Become Software Engineer | | AWS Cloud | Real-time Projects | Open Source Contributions | | Docker/Kubernetes | Scalable Systems | Strong DSA Skills | </div> --- # 💻 Developer Philosophy
+java
+class Developer {
 
     public static void main(String[] args) {
 
@@ -190,25 +43,5 @@ Currently Learning:
             }
         }
     }
-}`}
-          </pre>
-        </div>
-      </section>
-
-      {/* Footer */}
-      <footer className="bg-gradient-to-r from-[#0f2027] via-[#203a43] to-[#2c5364] py-14 text-center mt-10">
-        <h2 className="text-3xl font-bold text-emerald-300">
-          💚 Thanks for Visiting My Profile
-        </h2>
-
-        <p className="mt-5 text-lg text-gray-200">
-          ⭐ Star Your Favorite Repositories • 🚀 Keep Learning Keep Building • 💻 Code. Create. Innovate.
-        </p>
-
-        <div className="mt-8 text-gray-300">
-          ⭐ From Dhineshkumar
-        </div>
-      </footer>
-    </div>
-  );
 }
+--- # 🔥 Random Dev Quote <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div> --- # 🐍 Contribution Snake <div align="center"> <img src="https://raw.githubusercontent.com/dhineshprvt/dhineshprvt/output/snake.svg" alt="Snake animation" /> </div> --- # 🎵 Spotify Playing <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false"/> </div> --- <div align="center"> ## 💚 Thanks for Visiting My Profile <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=⭐+Star+Your+Favorite+Repositories;🚀+Keep+Learning+Keep+Building;💻+Code.+Create.+Innovate.;🔥+Let's+Build+Something+Amazing!" /> <br><br> ⭐ From [Dhineshkumar](https://github.com/dhineshprvt) </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
