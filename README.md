@@ -39,8 +39,8 @@ Explore my verified certificates :
 ---
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhineshprvt&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhineshprvt&show_icons=true&theme=merko)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhineshprvt&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhineshprvt&layout=compact&theme=merko)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhineshprvt&layout=compact&theme=merko)
 
 ---
