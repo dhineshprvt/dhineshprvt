@@ -66,10 +66,6 @@ Currently Learning:
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://github.com/dhineshprvt">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -92,13 +88,13 @@ Currently Learning:
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 
 <br><br>
 
 ### 🛠️ Tools & IDEs
 
-<img src="https://skillicons.dev/icons?i=vscode,intellij,maven,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=vscode,intellij,maven,postman"/>
 
 </div>
 
@@ -158,7 +154,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/dhineshprvt?theme=dark&font=Nunito&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/dhinesh_1434_k?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
@@ -210,26 +206,6 @@ class Developer {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dhineshprvt/dhineshprvt/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false"/>
 
 </div>
 
