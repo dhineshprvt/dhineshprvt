@@ -102,25 +102,13 @@
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhineshprvt&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhineshprvt&theme=github_dark"/>
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhineshprvt/dhineshprvt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhineshprvt/dhineshprvt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhineshprvt/dhineshprvt/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhineshprvt&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
