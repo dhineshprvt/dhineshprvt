@@ -58,7 +58,7 @@ Currently Learning:
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://www.linkedin.com/in/dhineshkumar-v/">
+<a href="https://www.linkedin.com/in/dhineshkumar--v/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
