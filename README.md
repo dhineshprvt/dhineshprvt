@@ -19,7 +19,7 @@
 <img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ```yaml
-Name: Dhineshkumar
+Name: DHINESHKUMAR V
 
 Education:
   Electronics & Communication Engineering
