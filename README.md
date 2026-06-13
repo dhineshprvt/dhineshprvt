@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Dhineshkumar&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Engineer%20|%20Tech%20Explorer&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Dhineshkumar&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Backend%20Engineer%20|%20Cloud%20Engineer%20|%20Tech%20Explorer&descAlignY=58&animation=fadeIn&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer;⚡+Building+Scalable+Backend+Systems;💡+Passionate+Problem+Solver;🌍+Exploring+Cloud+%26+DevOps;🔥+Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;☕+Java+%7C+Spring+Boot+Developer+%7C+Cloud+Engineer;⚡+Building+Scalable+Backend+Systems;💡+Passionate+Problem+Solver;🌍+Exploring+Cloud+%26+DevOps;🔥+Always+Learning+New+Technologies" />
 
 <br><br>
 
